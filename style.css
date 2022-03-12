@@ -1,0 +1,17 @@
+.headingDiv{
+    width: 100%;
+    text-align: left;
+}
+
+.headingDiv h3{
+    display: inline;
+}
+
+.headingDiv button{
+    float: right;
+    border: 1px solid white;
+}
+
+#start ,#status, #restart{
+    font-size: 22px;
+}
